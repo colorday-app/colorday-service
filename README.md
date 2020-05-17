@@ -1,7 +1,7 @@
 # ColorDay Service
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Issues](https://img.shields.io/github/issues/colorday-app/colorday-service)](https://github.com/colorday-app/colorday-service/issues)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![License](https://img.shields.io/github/license/colorday-app/colorday-service)]()
 
 ColorDay is an ongoing full stack application based on personal interests. This repository is the backend of the application built with Spring Boot.
 
@@ -19,7 +19,7 @@ Run `mvn spring-boot:run` to start the development server, which runs in port 80
 
 There are many ways to contribute to this project. You may provide suggestions, request features, report issues, or even submit pull requests. Contributions of any kind welcome!
 
-## Contributors ✨
+### Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
